@@ -1,4 +1,4 @@
-# Hi awesome individual - welcome to my coding planet! 🙋‍♂️
+# Hi awesome individual - welcome to my coding planet! 👋
 
 My name is Daniel and I'm glad you're here. Front-end development and data analysis are my passions. You can find more information in the Javascript object below.
 
