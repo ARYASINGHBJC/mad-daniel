@@ -24,3 +24,6 @@ const me = {
   editor: "Visual Studio Code",
   wantToLearn: ["Angular", "TensorFlow"],
 };
+```
+
+I have deleted most of my previous projects. Here I now work almost exclusively in private repositories. But if you would like to contribute to Copy and paste (The Asperger Project), feel free to contact me.
