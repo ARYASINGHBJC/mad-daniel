@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header.png" />
+<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/opener.png" />
 
 Hello awesome individual. Welcome to my coding planet. My name is Daniel. Frontend development and data science are my great passions, which I am passionate about every day.
 
