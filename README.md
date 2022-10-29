@@ -1,6 +1,10 @@
 <img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header.png" />
 
-I have deleted most of my previous projects. Here I work almost exclusively in private repositories. But if you would like to contribute to Copy and paste (The Asperger Project), feel free to contact me.
+Hello awesome individual. Welcome to my coding planet. My name is Daniel. Frontend development and data science are my great passions, which I am passionate about every day.
+
+In the past, I have participated in hackathons in The Netherlands and also organised my own hackathon as part of The Asperger Project.
+
+FYI: I have deleted most of my previous projects. Here I work almost exclusively in private repositories. But if you would like to contribute to Copy and paste (The Asperger Project), feel free to contact me.
 
 ---
 
