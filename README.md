@@ -1,22 +1,12 @@
+<br />
 <p align="center">
 <img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header.svg" />
 </p>
+<br />
   
-  <br />
-  
-Welcome to my GitHub profile! My name is Daniel, and I am from the Netherlands. I am currently studying computer science with a focus on data science in Germany. My interests include data science, front-end development and technical search engine optimization. I typically work on private repositories, but I'm excited to share some of my projects with the community. Thanks for visiting my profile, feel free to reach out if you have any questions or just want to say hi!
+Welcome to my GitHub profile! My name is Daniel, and I am from The Netherlands. I am currently studying computer science with a focus on data science in Germany. My interests include data science, front-end development and technical search engine optimization. I typically work on private repositories, but I'm excited to share some of my projects with the community. Thanks for visiting my profile, feel free to reach out if you have any questions or just want to say hi!
 
 ---
-
-### The foundation of my work:
-
-<p>
-<img src="https://img.shields.io/badge/Apple%20laptop-333333?style=for-the-badge&logo=apple&logoColor=white" />
-<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
 
 ### Front-end dev skills:
 
@@ -46,12 +36,4 @@ Welcome to my GitHub profile! My name is Daniel, and I am from the Netherlands. 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-### Education platforms:
-<p>
-<img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
-<img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
 </p>
