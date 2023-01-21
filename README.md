@@ -1,6 +1,6 @@
 <br />
 <p align="center">
-<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header.svg" />
+<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header-image.svg" />
 </p>
 <br />
   
