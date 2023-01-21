@@ -1,8 +1,6 @@
 <img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/gh-header.png" />
 
-Hello awesome individual. Welcome to my coding planet. My name is Daniel. Frontend development and data science are my passions. In the past, I have participated in hackathons in The Netherlands and Germany and also organised my own hackathon as part of The Asperger Project.
-
-FYI: I have deleted most of my previous projects. Here I work almost exclusively in private repositories. But if you would like to contribute to Copy and paste (The Asperger Project), feel free to contact me.
+Welcome to my GitHub profile! My name is Daniel, and I am from the Netherlands. I am currently studying computer science with a focus on data science in Germany. My interests include data science, front-end development and technical search engine optimization. I typically work on private repositories, but I'm excited to share some of my projects with the community. Thanks for visiting my profile, feel free to reach out if you have any questions or just want to say hi!
 
 ---
 
