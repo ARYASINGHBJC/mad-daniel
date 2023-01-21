@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header-image.svg" />
+<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header.svg" />
 </p>
   
   <br />
