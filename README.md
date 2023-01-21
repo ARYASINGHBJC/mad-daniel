@@ -1,6 +1,8 @@
-<center>
-<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/image.svg" />
-</center>
+<p align="center">
+<img src="https://raw.githubusercontent.com/mad-daniel/mad-daniel/main/header-image.svg" />
+</p>
+  
+  <br />
   
 Welcome to my GitHub profile! My name is Daniel, and I am from the Netherlands. I am currently studying computer science with a focus on data science in Germany. My interests include data science, front-end development and technical search engine optimization. I typically work on private repositories, but I'm excited to share some of my projects with the community. Thanks for visiting my profile, feel free to reach out if you have any questions or just want to say hi!
 
